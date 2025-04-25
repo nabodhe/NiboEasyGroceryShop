@@ -15,11 +15,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyGrocery.AppHost", "Easy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyGrocery.ServiceDefaults", "EasyGrocery.ServiceDefaults\EasyGrocery.ServiceDefaults.csproj", "{39952FD1-BF4D-4231-A9A2-E8B5B227C2A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoyaltyService", "services\LoyaltyService\LoyaltyService\LoyaltyService.csproj", "{545BC8B2-D366-4C36-B7E8-46E3CAD8165B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoyaltyService", "services\LoyaltyService\LoyaltyService.csproj", "{545BC8B2-D366-4C36-B7E8-46E3CAD8165B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OrderService", "OrderService", "{93262FB6-B090-4D57-86D8-5C1EA869F971}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "services\OrderService\OrderService\OrderService.csproj", "{9EAFDC13-E56E-46E9-AB26-A8EB7C988148}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "services\OrderService\OrderService.csproj", "{9EAFDC13-E56E-46E9-AB26-A8EB7C988148}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
